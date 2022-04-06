@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.code {
+    font-family: monospace;
+    background-color: lightgray;
+    border: 1px solid grey;
+    color: #444444;
+    font-weight: 400;
+    padding: 0.5rem 1rem;
+}
